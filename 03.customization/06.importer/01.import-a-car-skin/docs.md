@@ -10,7 +10,22 @@ taxonomy:
 [TOC]
 
 >>>>>> Tutorial from **hideou.se** from [hideou.se][1]
+-------------------------------------------------------
+MISSING INFORMATION: Bones/rigging. Cars need to be rigged to function in game "joints" are required but this guide for some reason refuses to elaborate on that.
+![image](https://github.com/maniaplanet/documentation/assets/101506459/3fbe56ea-90ef-487b-9c1b-2b418b5a33a7)
 
+the lack of bones and the lack of information on GBX packing makes this guide useless for custom car generation though it can be said that its OK at aiding in skins
+
+3d model formatting, this guide presumes that we can pack them into GBX format without providing any information on how to do that.
+Skin Pack GBX ... the entire section is wrong ... there is no "+" to click on
+![Screenshot (618)](https://github.com/maniaplanet/documentation/assets/101506459/61433cc9-7149-4b8c-b62e-cb4f60e91086)
+
+Additionally before I close out my extra additions... this guide NEEDS to show how to do this whole thing with Blender and Gimp so everyone can do it without needing to purchase software
+
+i made due with guesswork and Gimp but there is far less forgiving space for porting or making 3d models ... this guide would be best served to have elaborations added regarding vehicle rigging and how to allow the vehicle to have detachable parts among other things.
+-END OF CURRENT ADDITION-
+
+--------------------------------------------------------------------------------------------
 Hey there. This is a tutorial for how to import your very own 3D car model into Trackmania 2. This tutorial assumes that you already know how to use 3DS Max and have a car model that you've created or imported from another game already. You will need the following programs and files if you don't already have them.
 
 * 3DS Max (Any version will do, but all screenshots are from 3DS Max 2011)
